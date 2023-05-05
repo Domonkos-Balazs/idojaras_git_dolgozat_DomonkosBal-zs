@@ -62,6 +62,7 @@ img
 ul
 {
 	font-size:small ;
+
 }
 
 input
@@ -76,4 +77,8 @@ input
 	color: #808183;
 	font-weight: bold;
 	text-decoration: none;
+}
+li{
+	list-style-image: url("nap.png");
+	margin-left: 10%;
 }
