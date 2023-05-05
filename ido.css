@@ -24,9 +24,13 @@ body
 	background-color: rgba(255, 255, 255, 0.7);
 }
 
-#keret h1, h2{
+h1, h2{
 	color: #243f84;
 	text-transform: uppercase;
+}
+
+h2{
+	border-top: 1px solid black;
 }
 
 p
@@ -37,6 +41,8 @@ p
 table
 {
 	border:outset;
+	margin: auto;
+	border-collapse: collapse;
 }
 
 hr
